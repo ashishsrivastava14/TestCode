@@ -11,7 +11,7 @@
 	<name>Core - Administration</name>
 	<description>TruOps Core platform for user management, application settings, localization and email templates.</description>
 	<dependencies>
-<dependency>
+<dependency>test ashish
 			<groupId>com.sdgc.truops</groupId>
 			<artifactId>TruOps-GRC-CommonMasters</artifactId>
 			<classifier>classes</classifier>
